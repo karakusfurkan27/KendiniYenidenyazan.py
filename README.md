@@ -1,0 +1,1 @@
+# KendiniYenidenyazan.py
